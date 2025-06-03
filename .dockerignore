@@ -1,0 +1,9 @@
+.git
+.gitignore
+.dockerignore
+README.md
+notebooks/.ipynb_checkpoints
+__pycache__/
+*.pyc
+.vscode/
+.idea/

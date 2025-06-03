@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+openpyxl
+# PyTorch, CUDA, cuDNN и связанные библиотеки уже есть в базовом образе NVIDIA

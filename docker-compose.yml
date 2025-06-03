@@ -1,0 +1,16 @@
+services:
+  jupyter_lab_titanic_gpu:
+    build: .
+    container_name: house_prices_gpu_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    working_dir: /app
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
