@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/39c30540c408421a96c68c604bcbf1f1/artifacts
+end_time: 1749753375365
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 39c30540c408421a96c68c604bcbf1f1
+run_name: silent-slug-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753356302
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/fbfb2c680f504e529a1384c809f40aec/artifacts
+deleted_time: 1749753273702
+end_time: 1749748490223
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: fbfb2c680f504e529a1384c809f40aec
+run_name: delightful-cow-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748479719
+status: 3
+tags: []
+user_id: root

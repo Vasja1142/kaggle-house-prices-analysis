@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/7c06f4f65a9e442887e7d1b6398c8066/artifacts
+end_time: 1749753491186
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 7c06f4f65a9e442887e7d1b6398c8066
+run_name: learned-kit-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753485027
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/96f416a030d14c44832dd0d1ac960ab0/artifacts
+end_time: 1749753663446
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 96f416a030d14c44832dd0d1ac960ab0
+run_name: unruly-fowl-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753652974
+status: 3
+tags: []
+user_id: root

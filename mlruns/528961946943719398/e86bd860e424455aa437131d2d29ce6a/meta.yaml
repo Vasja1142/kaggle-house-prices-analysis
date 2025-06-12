@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e86bd860e424455aa437131d2d29ce6a/artifacts
+deleted_time: 1749753273671
+end_time: 1749748866577
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: e86bd860e424455aa437131d2d29ce6a
+run_name: awesome-bat-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748861709
+status: 4
+tags: []
+user_id: root

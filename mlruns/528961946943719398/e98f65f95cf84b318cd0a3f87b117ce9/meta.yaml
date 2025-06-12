@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e98f65f95cf84b318cd0a3f87b117ce9/artifacts
+deleted_time: 1749753273641
+end_time: 1749751264249
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: e98f65f95cf84b318cd0a3f87b117ce9
+run_name: capable-shoat-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751254126
+status: 3
+tags: []
+user_id: root

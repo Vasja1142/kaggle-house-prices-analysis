@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/73467d112cc24fb99977cace805a98a0/artifacts
+deleted_time: 1749753285138
+end_time: 1749748306247
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 73467d112cc24fb99977cace805a98a0
+run_name: exultant-goat-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748283601
+status: 3
+tags: []
+user_id: root

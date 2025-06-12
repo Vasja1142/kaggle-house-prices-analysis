@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/6bde66943c094c2cbdb028d5e13edcfa/artifacts
+end_time: 1749753677858
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 6bde66943c094c2cbdb028d5e13edcfa
+run_name: unleashed-hare-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753663451
+status: 3
+tags: []
+user_id: root

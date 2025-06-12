@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/2e8fd125c13846418c7b7b7a0065009c/artifacts
+end_time: 1749753410319
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 2e8fd125c13846418c7b7b7a0065009c
+run_name: mysterious-kite-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753396302
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e9112d908ac94fd696586db2ad7fcd1e/artifacts
+deleted_time: 1749753273620
+end_time: 1749751516256
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: e9112d908ac94fd696586db2ad7fcd1e
+run_name: gaudy-wasp-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751505137
+status: 3
+tags: []
+user_id: root

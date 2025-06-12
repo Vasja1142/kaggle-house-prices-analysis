@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/a7356bb75e19451ba26078cb41d90c68/artifacts
+deleted_time: 1749753273619
+end_time: 1749751536737
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: a7356bb75e19451ba26078cb41d90c68
+run_name: carefree-bug-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751516261
+status: 3
+tags: []
+user_id: root

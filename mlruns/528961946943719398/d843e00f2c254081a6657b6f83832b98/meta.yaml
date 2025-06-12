@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d843e00f2c254081a6657b6f83832b98/artifacts
+end_time: 1749753713080
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: d843e00f2c254081a6657b6f83832b98
+run_name: trusting-dove-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753702869
+status: 3
+tags: []
+user_id: root

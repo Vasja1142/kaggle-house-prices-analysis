@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/5c80cdf685e948f39f2739db523d043b/artifacts
+deleted_time: 1749753273690
+end_time: 1749748643357
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 5c80cdf685e948f39f2739db523d043b
+run_name: puzzled-grouse-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748629685
+status: 3
+tags: []
+user_id: root

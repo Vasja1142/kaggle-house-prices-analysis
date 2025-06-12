@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/aa589c2aec284556986d7f3fd4021563/artifacts
+end_time: 1749753396296
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: aa589c2aec284556986d7f3fd4021563
+run_name: colorful-duck-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753375370
+status: 3
+tags: []
+user_id: root

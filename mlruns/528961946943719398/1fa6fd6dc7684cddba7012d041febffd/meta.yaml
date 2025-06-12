@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/1fa6fd6dc7684cddba7012d041febffd/artifacts
+end_time: 1749753422942
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 1fa6fd6dc7684cddba7012d041febffd
+run_name: funny-conch-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753410324
+status: 3
+tags: []
+user_id: root

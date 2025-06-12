@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d6138fb700ca45e594f63973f3475707/artifacts
+end_time: 1749753640408
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: d6138fb700ca45e594f63973f3475707
+run_name: gaudy-sponge-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753627472
+status: 3
+tags: []
+user_id: root

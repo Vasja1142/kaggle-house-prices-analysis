@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/84700a27bc4a41f387b3bda7c6bfd1da/artifacts
+deleted_time: 1749753273599
+end_time: 1749751717315
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 84700a27bc4a41f387b3bda7c6bfd1da
+run_name: polite-cod-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751715459
+status: 4
+tags: []
+user_id: root

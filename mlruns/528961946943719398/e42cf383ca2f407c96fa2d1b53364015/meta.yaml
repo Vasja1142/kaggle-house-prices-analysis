@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e42cf383ca2f407c96fa2d1b53364015/artifacts
+end_time: 1749753441093
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: e42cf383ca2f407c96fa2d1b53364015
+run_name: invincible-hawk-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753431133
+status: 3
+tags: []
+user_id: root

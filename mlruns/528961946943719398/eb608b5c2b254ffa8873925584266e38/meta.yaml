@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/eb608b5c2b254ffa8873925584266e38/artifacts
+end_time: 1749753356296
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: eb608b5c2b254ffa8873925584266e38
+run_name: beautiful-bass-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753343367
+status: 3
+tags: []
+user_id: root

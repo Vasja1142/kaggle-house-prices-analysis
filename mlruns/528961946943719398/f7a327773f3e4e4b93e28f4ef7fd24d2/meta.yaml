@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/f7a327773f3e4e4b93e28f4ef7fd24d2/artifacts
+end_time: 1749753465921
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: f7a327773f3e4e4b93e28f4ef7fd24d2
+run_name: thundering-lynx-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753450670
+status: 3
+tags: []
+user_id: root

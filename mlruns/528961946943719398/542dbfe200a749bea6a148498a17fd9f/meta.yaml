@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/542dbfe200a749bea6a148498a17fd9f/artifacts
+deleted_time: 1749753273678
+end_time: 1749748755202
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 542dbfe200a749bea6a148498a17fd9f
+run_name: calm-steed-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748744109
+status: 3
+tags: []
+user_id: root

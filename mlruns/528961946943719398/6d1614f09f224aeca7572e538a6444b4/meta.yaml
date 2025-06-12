@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/6d1614f09f224aeca7572e538a6444b4/artifacts
+end_time: 1749753603392
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 6d1614f09f224aeca7572e538a6444b4
+run_name: calm-wasp-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753592852
+status: 3
+tags: []
+user_id: root

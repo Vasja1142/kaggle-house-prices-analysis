@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/aaff1767f59646e891907f6d250f91a0/artifacts
+deleted_time: 1749753285156
+end_time: 1749747214091
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: aaff1767f59646e891907f6d250f91a0
+run_name: serious-slug-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747206288
+status: 3
+tags: []
+user_id: root

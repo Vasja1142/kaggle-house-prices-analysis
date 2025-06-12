@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d63dcd58e35547c78ed42c4b12125cbd/artifacts
+deleted_time: 1749753285158
+end_time: 1749747093025
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: d63dcd58e35547c78ed42c4b12125cbd
+run_name: popular-foal-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747091048
+status: 4
+tags: []
+user_id: root

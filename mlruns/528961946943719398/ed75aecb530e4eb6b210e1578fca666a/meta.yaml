@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/ed75aecb530e4eb6b210e1578fca666a/artifacts
+deleted_time: 1749753273634
+end_time: 1749751341082
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: ed75aecb530e4eb6b210e1578fca666a
+run_name: capable-midge-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751322380
+status: 3
+tags: []
+user_id: root

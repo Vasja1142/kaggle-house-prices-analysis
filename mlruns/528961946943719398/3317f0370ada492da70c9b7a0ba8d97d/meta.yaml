@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/3317f0370ada492da70c9b7a0ba8d97d/artifacts
+deleted_time: 1749753273669
+end_time: 1749748993510
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 3317f0370ada492da70c9b7a0ba8d97d
+run_name: luminous-goose-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748982327
+status: 3
+tags: []
+user_id: root

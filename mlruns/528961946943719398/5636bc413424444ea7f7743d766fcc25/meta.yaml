@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/5636bc413424444ea7f7743d766fcc25/artifacts
+deleted_time: 1749753273626
+end_time: 1749751457620
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 5636bc413424444ea7f7743d766fcc25
+run_name: handsome-donkey-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751448632
+status: 3
+tags: []
+user_id: root

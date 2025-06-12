@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/565efb3cd30a4b77aaa7704e8e16e9f5/artifacts
+end_time: 1749753431127
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 565efb3cd30a4b77aaa7704e8e16e9f5
+run_name: adaptable-mare-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753422948
+status: 3
+tags: []
+user_id: root

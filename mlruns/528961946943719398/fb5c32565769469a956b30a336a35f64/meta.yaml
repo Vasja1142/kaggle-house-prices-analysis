@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/fb5c32565769469a956b30a336a35f64/artifacts
+deleted_time: 1749753273602
+end_time: 1749751697697
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: fb5c32565769469a956b30a336a35f64
+run_name: auspicious-perch-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751688057
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/0e2c1b8f871843308691ae4ffa9b7435/artifacts
+end_time: 1749753485022
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 0e2c1b8f871843308691ae4ffa9b7435
+run_name: useful-squirrel-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753476618
+status: 3
+tags: []
+user_id: root

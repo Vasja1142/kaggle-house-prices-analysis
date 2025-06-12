@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/dc5ab75ea09e4f11b4a3dbd1bccbd68b/artifacts
+end_time: 1749753812617
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: dc5ab75ea09e4f11b4a3dbd1bccbd68b
+run_name: redolent-duck-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753797961
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/2f84cdef6cd64013996a47f450b4af7d/artifacts
+deleted_time: 1749753285161
+end_time: 1749746905550
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 2f84cdef6cd64013996a47f450b4af7d
+run_name: defiant-cow-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749746905537
+status: 4
+tags: []
+user_id: root

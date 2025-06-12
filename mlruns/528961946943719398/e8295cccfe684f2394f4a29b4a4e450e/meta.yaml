@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e8295cccfe684f2394f4a29b4a4e450e/artifacts
+end_time: 1749753942903
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: e8295cccfe684f2394f4a29b4a4e450e
+run_name: gaudy-boar-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753931046
+status: 3
+tags: []
+user_id: root

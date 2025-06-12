@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/4702b76b87ed4e1a9d1fabf2d88ddeeb/artifacts
+deleted_time: 1749753285147
+end_time: 1749747675775
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 4702b76b87ed4e1a9d1fabf2d88ddeeb
+run_name: amazing-wasp-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747674358
+status: 4
+tags: []
+user_id: root

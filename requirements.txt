@@ -5,4 +5,9 @@ matplotlib
 seaborn
 jupyterlab
 openpyxl
+optuna
+mlflow
+colorama
+tqdm
+ipywidgets
 # PyTorch, CUDA, cuDNN и связанные библиотеки уже есть в базовом образе NVIDIA

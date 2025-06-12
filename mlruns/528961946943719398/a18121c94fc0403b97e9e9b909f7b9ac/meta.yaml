@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/a18121c94fc0403b97e9e9b909f7b9ac/artifacts
+deleted_time: 1749753273685
+end_time: 1749748686601
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: a18121c94fc0403b97e9e9b909f7b9ac
+run_name: sassy-frog-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748672828
+status: 3
+tags: []
+user_id: root

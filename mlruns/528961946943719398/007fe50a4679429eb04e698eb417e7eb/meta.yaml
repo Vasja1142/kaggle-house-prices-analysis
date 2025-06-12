@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/007fe50a4679429eb04e698eb417e7eb/artifacts
+deleted_time: 1749753285150
+end_time: 1749747624748
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 007fe50a4679429eb04e698eb417e7eb
+run_name: stylish-fly-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747615957
+status: 3
+tags: []
+user_id: root

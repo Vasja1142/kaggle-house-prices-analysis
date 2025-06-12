@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/937622f068b847b7881a4cd04e4f7cf9/artifacts
+deleted_time: 1749753285128
+end_time: 1749748410417
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 937622f068b847b7881a4cd04e4f7cf9
+run_name: indecisive-conch-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748403590
+status: 3
+tags: []
+user_id: root

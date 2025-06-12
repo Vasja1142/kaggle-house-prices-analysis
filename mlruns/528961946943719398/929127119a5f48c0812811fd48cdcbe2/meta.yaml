@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/929127119a5f48c0812811fd48cdcbe2/artifacts
+deleted_time: 1749753273657
+end_time: 1749749213355
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 929127119a5f48c0812811fd48cdcbe2
+run_name: stately-hen-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749196841
+status: 3
+tags: []
+user_id: root

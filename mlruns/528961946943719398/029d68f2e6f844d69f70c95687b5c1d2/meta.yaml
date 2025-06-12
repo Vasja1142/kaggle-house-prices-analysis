@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/029d68f2e6f844d69f70c95687b5c1d2/artifacts
+deleted_time: 1749753273612
+end_time: 1749751584080
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 029d68f2e6f844d69f70c95687b5c1d2
+run_name: sneaky-stoat-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751575812
+status: 3
+tags: []
+user_id: root

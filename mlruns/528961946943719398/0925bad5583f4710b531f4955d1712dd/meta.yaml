@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/0925bad5583f4710b531f4955d1712dd/artifacts
+deleted_time: 1749753285126
+end_time: 1749748440779
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 0925bad5583f4710b531f4955d1712dd
+run_name: fearless-newt-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748428843
+status: 3
+tags: []
+user_id: root

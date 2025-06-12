@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/865975b515ff4e3d8b8d9d21eb734205/artifacts
+deleted_time: 1749753273697
+end_time: 1749748529907
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 865975b515ff4e3d8b8d9d21eb734205
+run_name: dashing-finch-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748524699
+status: 4
+tags: []
+user_id: root

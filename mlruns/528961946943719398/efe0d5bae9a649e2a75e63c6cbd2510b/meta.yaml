@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/efe0d5bae9a649e2a75e63c6cbd2510b/artifacts
+deleted_time: 1749753273641
+end_time: 1749751254121
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: efe0d5bae9a649e2a75e63c6cbd2510b
+run_name: puzzled-sheep-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751243954
+status: 3
+tags: []
+user_id: root

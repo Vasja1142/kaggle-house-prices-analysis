@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/30e3d7ba97fe4582875c671fa72bb84a/artifacts
+deleted_time: 1749753273648
+end_time: 1749749311671
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 30e3d7ba97fe4582875c671fa72bb84a
+run_name: receptive-loon-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749298121
+status: 3
+tags: []
+user_id: root

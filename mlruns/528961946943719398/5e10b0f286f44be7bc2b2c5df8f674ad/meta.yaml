@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/5e10b0f286f44be7bc2b2c5df8f674ad/artifacts
+deleted_time: 1749753285123
+end_time: 1749748479715
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 5e10b0f286f44be7bc2b2c5df8f674ad
+run_name: delightful-fowl-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748470187
+status: 3
+tags: []
+user_id: root

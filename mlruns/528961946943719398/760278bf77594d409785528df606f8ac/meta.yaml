@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/760278bf77594d409785528df606f8ac/artifacts
+end_time: 1749753902355
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 760278bf77594d409785528df606f8ac
+run_name: powerful-mole-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753890331
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/c2293f4f600e47ef8be2742b85614043/artifacts
+deleted_time: 1749753285141
+end_time: 1749748229309
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: c2293f4f600e47ef8be2742b85614043
+run_name: unique-moth-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748218011
+status: 3
+tags: []
+user_id: root

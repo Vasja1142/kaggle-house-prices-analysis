@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/573f75236dae4ae493e9d404c7b13c9c/artifacts
+deleted_time: 1749753285147
+end_time: 1749747661886
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 573f75236dae4ae493e9d404c7b13c9c
+run_name: kindly-fawn-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747654362
+status: 3
+tags: []
+user_id: root

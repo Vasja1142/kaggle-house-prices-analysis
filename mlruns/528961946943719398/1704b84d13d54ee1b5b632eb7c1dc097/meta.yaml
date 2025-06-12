@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/1704b84d13d54ee1b5b632eb7c1dc097/artifacts
+deleted_time: 1749753273701
+end_time: 1749748498139
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 1704b84d13d54ee1b5b632eb7c1dc097
+run_name: dashing-robin-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748490228
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/2a1a8334590b456aa9df1dd2055503a3/artifacts
+deleted_time: 1749753273678
+end_time: 1749748760965
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 2a1a8334590b456aa9df1dd2055503a3
+run_name: peaceful-kite-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748755211
+status: 4
+tags: []
+user_id: root

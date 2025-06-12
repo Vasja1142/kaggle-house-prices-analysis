@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/39640488bb974dd5aa174e0ccf89d793/artifacts
+deleted_time: 1749753273664
+end_time: 1749749051531
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 39640488bb974dd5aa174e0ccf89d793
+run_name: treasured-rook-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749044289
+status: 4
+tags: []
+user_id: root

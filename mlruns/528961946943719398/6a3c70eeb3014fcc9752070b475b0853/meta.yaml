@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/6a3c70eeb3014fcc9752070b475b0853/artifacts
+deleted_time: 1749753273670
+end_time: 1749748982323
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 6a3c70eeb3014fcc9752070b475b0853
+run_name: treasured-wolf-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748972902
+status: 3
+tags: []
+user_id: root

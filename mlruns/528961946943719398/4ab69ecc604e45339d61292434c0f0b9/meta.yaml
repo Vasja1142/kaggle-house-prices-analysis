@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/4ab69ecc604e45339d61292434c0f0b9/artifacts
+deleted_time: 1749753285140
+end_time: 1749748256959
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 4ab69ecc604e45339d61292434c0f0b9
+run_name: capable-dolphin-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748238534
+status: 3
+tags: []
+user_id: root

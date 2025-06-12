@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/75b56c05916c4ddfa45825c057e15be1/artifacts
+end_time: 1749753725023
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 75b56c05916c4ddfa45825c057e15be1
+run_name: welcoming-shark-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753713086
+status: 3
+tags: []
+user_id: root

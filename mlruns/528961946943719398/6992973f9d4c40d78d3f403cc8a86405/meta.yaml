@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/6992973f9d4c40d78d3f403cc8a86405/artifacts
+deleted_time: 1749753273660
+end_time: 1749749135659
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 6992973f9d4c40d78d3f403cc8a86405
+run_name: resilient-calf-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749125271
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/9c460db8cff8447e9bc991605c1a838b/artifacts
+end_time: 1749753825460
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 9c460db8cff8447e9bc991605c1a838b
+run_name: flawless-snipe-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753812622
+status: 3
+tags: []
+user_id: root

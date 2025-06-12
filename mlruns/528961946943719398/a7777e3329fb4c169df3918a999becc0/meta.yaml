@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/a7777e3329fb4c169df3918a999becc0/artifacts
+end_time: 1749753689992
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: a7777e3329fb4c169df3918a999becc0
+run_name: handsome-bug-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753677863
+status: 3
+tags: []
+user_id: root

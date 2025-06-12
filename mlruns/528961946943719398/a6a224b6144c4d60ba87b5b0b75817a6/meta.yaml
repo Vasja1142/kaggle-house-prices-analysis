@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/a6a224b6144c4d60ba87b5b0b75817a6/artifacts
+deleted_time: 1749753273696
+end_time: 1749748553231
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: a6a224b6144c4d60ba87b5b0b75817a6
+run_name: charming-skink-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748547945
+status: 4
+tags: []
+user_id: root

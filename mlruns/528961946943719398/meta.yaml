@@ -1,0 +1,6 @@
+artifact_location: file:///app/mlruns/528961946943719398
+creation_time: 1749746905478
+experiment_id: '528961946943719398'
+last_update_time: 1749746905478
+lifecycle_stage: active
+name: House Prices - Optuna & MLflow

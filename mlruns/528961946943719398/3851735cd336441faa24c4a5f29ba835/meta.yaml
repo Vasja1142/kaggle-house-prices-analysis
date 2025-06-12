@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/3851735cd336441faa24c4a5f29ba835/artifacts
+deleted_time: 1749753273653
+end_time: 1749749288748
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 3851735cd336441faa24c4a5f29ba835
+run_name: resilient-whale-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749277861
+status: 3
+tags: []
+user_id: root

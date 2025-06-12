@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/4b09593540244448a28631a66265f7cb/artifacts
+deleted_time: 1749753285134
+end_time: 1749748350916
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 4b09593540244448a28631a66265f7cb
+run_name: mercurial-swan-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748339525
+status: 3
+tags: []
+user_id: root

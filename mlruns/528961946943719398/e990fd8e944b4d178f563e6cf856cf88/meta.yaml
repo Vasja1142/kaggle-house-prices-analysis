@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/e990fd8e944b4d178f563e6cf856cf88/artifacts
+deleted_time: 1749753273602
+end_time: 1749751688051
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: e990fd8e944b4d178f563e6cf856cf88
+run_name: valuable-moose-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751670888
+status: 3
+tags: []
+user_id: root

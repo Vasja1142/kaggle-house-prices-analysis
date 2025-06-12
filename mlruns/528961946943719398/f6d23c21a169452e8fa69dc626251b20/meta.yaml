@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/f6d23c21a169452e8fa69dc626251b20/artifacts
+deleted_time: 1749753285150
+end_time: 1749747627936
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: f6d23c21a169452e8fa69dc626251b20
+run_name: thoughtful-lark-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747624752
+status: 4
+tags: []
+user_id: root

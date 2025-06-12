@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/991bdeac505848699865d92b5a0a722e/artifacts
+deleted_time: 1749753285147
+end_time: 1749747810336
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 991bdeac505848699865d92b5a0a722e
+run_name: popular-grouse-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747797669
+status: 3
+tags: []
+user_id: root

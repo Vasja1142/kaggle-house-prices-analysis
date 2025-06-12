@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/4bde19a43a2045569a6f9f3abe28c9f4/artifacts
+deleted_time: 1749753273661
+end_time: 1749749125265
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 4bde19a43a2045569a6f9f3abe28c9f4
+run_name: amusing-lamb-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749115154
+status: 3
+tags: []
+user_id: root

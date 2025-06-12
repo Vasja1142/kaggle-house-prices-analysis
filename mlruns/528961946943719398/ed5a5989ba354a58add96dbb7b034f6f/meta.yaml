@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/ed5a5989ba354a58add96dbb7b034f6f/artifacts
+deleted_time: 1749753273646
+end_time: 1749750471808
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: ed5a5989ba354a58add96dbb7b034f6f
+run_name: zealous-bird-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749750468509
+status: 4
+tags: []
+user_id: root

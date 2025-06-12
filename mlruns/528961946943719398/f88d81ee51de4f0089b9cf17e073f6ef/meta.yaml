@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/f88d81ee51de4f0089b9cf17e073f6ef/artifacts
+end_time: 1749753580920
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: f88d81ee51de4f0089b9cf17e073f6ef
+run_name: crawling-goat-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753570409
+status: 3
+tags: []
+user_id: root

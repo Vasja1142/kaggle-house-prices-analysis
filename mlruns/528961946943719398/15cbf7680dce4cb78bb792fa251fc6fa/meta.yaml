@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/15cbf7680dce4cb78bb792fa251fc6fa/artifacts
+end_time: 1749753499748
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 15cbf7680dce4cb78bb792fa251fc6fa
+run_name: resilient-hound-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753491191
+status: 3
+tags: []
+user_id: root

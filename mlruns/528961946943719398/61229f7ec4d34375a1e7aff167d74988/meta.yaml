@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/61229f7ec4d34375a1e7aff167d74988/artifacts
+end_time: 1749753748659
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 61229f7ec4d34375a1e7aff167d74988
+run_name: selective-loon-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753737664
+status: 3
+tags: []
+user_id: root

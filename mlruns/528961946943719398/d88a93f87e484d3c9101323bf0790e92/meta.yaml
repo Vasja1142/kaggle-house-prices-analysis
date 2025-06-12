@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d88a93f87e484d3c9101323bf0790e92/artifacts
+deleted_time: 1749753273640
+end_time: 1749751271425
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: d88a93f87e484d3c9101323bf0790e92
+run_name: persistent-colt-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751264253
+status: 3
+tags: []
+user_id: root

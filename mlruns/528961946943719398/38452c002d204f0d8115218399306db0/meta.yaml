@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/38452c002d204f0d8115218399306db0/artifacts
+deleted_time: 1749753273656
+end_time: 1749749224621
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 38452c002d204f0d8115218399306db0
+run_name: resilient-wasp-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749213361
+status: 3
+tags: []
+user_id: root

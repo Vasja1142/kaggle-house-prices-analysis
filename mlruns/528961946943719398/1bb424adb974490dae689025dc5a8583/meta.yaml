@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/1bb424adb974490dae689025dc5a8583/artifacts
+deleted_time: 1749753273690
+end_time: 1749748618901
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 1bb424adb974490dae689025dc5a8583
+run_name: unequaled-sponge-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748602679
+status: 3
+tags: []
+user_id: root

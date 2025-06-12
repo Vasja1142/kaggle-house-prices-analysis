@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/229ff1256bde46b798b6984d4a085b2f/artifacts
+deleted_time: 1749753273697
+end_time: 1749748512711
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 229ff1256bde46b798b6984d4a085b2f
+run_name: overjoyed-shad-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748498144
+status: 3
+tags: []
+user_id: root

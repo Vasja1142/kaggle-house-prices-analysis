@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/48ad248e74da46219a1f75ab861ecf12/artifacts
+end_time: 1749753476612
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 48ad248e74da46219a1f75ab861ecf12
+run_name: bright-smelt-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753465926
+status: 3
+tags: []
+user_id: root

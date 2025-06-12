@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d1745ec5265f4ec4b358cf86365315f6/artifacts
+deleted_time: 1749753273653
+end_time: 1749749264460
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: d1745ec5265f4ec4b358cf86365315f6
+run_name: charming-cub-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749253416
+status: 3
+tags: []
+user_id: root

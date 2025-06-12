@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d8890f67176b4699aca27d875e65e54b/artifacts
+deleted_time: 1749753273688
+end_time: 1749748662630
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: d8890f67176b4699aca27d875e65e54b
+run_name: righteous-mole-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748653144
+status: 3
+tags: []
+user_id: root

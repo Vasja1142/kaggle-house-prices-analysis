@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/3975692514da4116b7582d29717d0da1/artifacts
+deleted_time: 1749753273677
+end_time: 1749748826179
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 3975692514da4116b7582d29717d0da1
+run_name: hilarious-mare-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748804802
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/c1437c64745d4a1a8e79ed97684fac76/artifacts
+end_time: 1749753702863
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: c1437c64745d4a1a8e79ed97684fac76
+run_name: abundant-goat-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753689998
+status: 3
+tags: []
+user_id: root

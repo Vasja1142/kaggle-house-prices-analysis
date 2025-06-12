@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/b286d086a2b2422a9acf16c79c5ba661/artifacts
+deleted_time: 1749753285156
+end_time: 1749747532940
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: b286d086a2b2422a9acf16c79c5ba661
+run_name: angry-yak-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747525647
+status: 4
+tags: []
+user_id: root

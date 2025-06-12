@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/345a5614183c46bfab5446e46fb66ed5/artifacts
+deleted_time: 1749753273607
+end_time: 1749751653593
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 345a5614183c46bfab5446e46fb66ed5
+run_name: thoughtful-lamb-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751640418
+status: 3
+tags: []
+user_id: root

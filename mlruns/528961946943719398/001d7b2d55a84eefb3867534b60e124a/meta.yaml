@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/001d7b2d55a84eefb3867534b60e124a/artifacts
+end_time: 1749753848097
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 001d7b2d55a84eefb3867534b60e124a
+run_name: masked-fawn-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753835625
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/9af4c0d609ae4ee89ce5ff9059fe3c43/artifacts
+end_time: 1749753524439
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 9af4c0d609ae4ee89ce5ff9059fe3c43
+run_name: honorable-snail-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753508706
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/83f5e7a0b1bc4d6d890af421d9dd73ae/artifacts
+end_time: 1749753450665
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 83f5e7a0b1bc4d6d890af421d9dd73ae
+run_name: abrasive-rat-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753441098
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/7ab44c4b7d804cd6a353466106389b61/artifacts
+deleted_time: 1749753273643
+end_time: 1749751223893
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 7ab44c4b7d804cd6a353466106389b61
+run_name: wise-tern-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751204943
+status: 3
+tags: []
+user_id: root

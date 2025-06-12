@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/d98e2254ca454251bd61ced070babc98/artifacts
+deleted_time: 1749753285126
+end_time: 1749748449753
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: d98e2254ca454251bd61ced070babc98
+run_name: efficient-loon-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748440784
+status: 3
+tags: []
+user_id: root

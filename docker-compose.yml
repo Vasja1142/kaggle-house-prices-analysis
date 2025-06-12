@@ -1,11 +1,12 @@
 services:
-  jupyter_lab_titanic_gpu:
-    build: .
+  # Сервис для Jupyter Lab
+  jupyter_lab:
+    build: . # Используем твой Dockerfile
     container_name: house_prices_gpu_container
     ports:
-      - "8888:8888"
+      - "8888:8888" # Порт для Jupyter
     volumes:
-      - .:/app
+      - .:/app # Вся папка проекта монтируется в /app
     working_dir: /app
     deploy:
       resources:
@@ -14,3 +15,24 @@ services:
             - driver: nvidia
               count: all
               capabilities: [gpu]
+    # Указываем, что этот сервис зависит от mlflow_server
+    # Docker-compose сперва запустит mlflow_server, а потом jupyter_lab
+    depends_on:
+      - mlflow_server
+
+  # Сервис для MLflow UI
+  mlflow_server:
+    build: . # Можно использовать тот же образ, т.к. mlflow там уже есть
+    container_name: mlflow_ui_server
+    ports:
+      - "5000:5000" # Порт для MLflow
+    volumes:
+      - .:/app # Также монтируем папку, чтобы оба контейнера видели mlruns
+    working_dir: /app
+    # Переопределяем команду запуска контейнера на запуск MLflow
+    command: >
+      mlflow server
+      --host 0.0.0.0
+      --port 5000
+      --backend-store-uri /app/mlruns
+      --default-artifact-root /app/mlruns

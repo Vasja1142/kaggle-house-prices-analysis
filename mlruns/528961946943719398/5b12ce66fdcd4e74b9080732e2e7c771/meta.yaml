@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/5b12ce66fdcd4e74b9080732e2e7c771/artifacts
+deleted_time: 1749753285132
+end_time: 1749748368895
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 5b12ce66fdcd4e74b9080732e2e7c771
+run_name: big-fly-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748368029
+status: 4
+tags: []
+user_id: root

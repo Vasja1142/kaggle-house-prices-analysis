@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/b5c106c5c10246fe92f568d51f20fee6/artifacts
+deleted_time: 1749753273611
+end_time: 1749751592444
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: b5c106c5c10246fe92f568d51f20fee6
+run_name: funny-roo-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751584086
+status: 3
+tags: []
+user_id: root

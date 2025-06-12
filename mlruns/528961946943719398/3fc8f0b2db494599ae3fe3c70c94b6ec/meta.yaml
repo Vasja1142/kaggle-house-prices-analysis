@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/3fc8f0b2db494599ae3fe3c70c94b6ec/artifacts
+deleted_time: 1749753273647
+end_time: 1749749343020
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 3fc8f0b2db494599ae3fe3c70c94b6ec
+run_name: bustling-snail-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749326050
+status: 3
+tags: []
+user_id: root

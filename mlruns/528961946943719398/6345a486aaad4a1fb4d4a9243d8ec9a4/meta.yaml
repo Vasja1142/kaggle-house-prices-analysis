@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/6345a486aaad4a1fb4d4a9243d8ec9a4/artifacts
+deleted_time: 1749753273634
+end_time: 1749751322374
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 6345a486aaad4a1fb4d4a9243d8ec9a4
+run_name: upbeat-toad-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751304519
+status: 3
+tags: []
+user_id: root

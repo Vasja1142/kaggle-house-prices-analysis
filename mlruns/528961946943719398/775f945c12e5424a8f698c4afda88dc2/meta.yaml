@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/775f945c12e5424a8f698c4afda88dc2/artifacts
+deleted_time: 1749753273683
+end_time: 1749748727667
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 775f945c12e5424a8f698c4afda88dc2
+run_name: upbeat-bug-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748718486
+status: 3
+tags: []
+user_id: root

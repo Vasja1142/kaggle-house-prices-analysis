@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/ad91ae69be434e3fb6a4378ea468569e/artifacts
+end_time: 1749753763000
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: ad91ae69be434e3fb6a4378ea468569e
+run_name: rebellious-jay-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753748666
+status: 3
+tags: []
+user_id: root

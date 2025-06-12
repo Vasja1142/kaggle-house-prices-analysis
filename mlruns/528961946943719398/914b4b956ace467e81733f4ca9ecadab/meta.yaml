@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/914b4b956ace467e81733f4ca9ecadab/artifacts
+deleted_time: 1749753273660
+end_time: 1749749148483
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 914b4b956ace467e81733f4ca9ecadab
+run_name: magnificent-croc-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749135664
+status: 3
+tags: []
+user_id: root

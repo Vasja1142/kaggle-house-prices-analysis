@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/766bdaa7969c4a799aa354079679affc/artifacts
+deleted_time: 1749753285161
+end_time: 1749747077633
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 766bdaa7969c4a799aa354079679affc
+run_name: serious-bat-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749747066635
+status: 3
+tags: []
+user_id: root

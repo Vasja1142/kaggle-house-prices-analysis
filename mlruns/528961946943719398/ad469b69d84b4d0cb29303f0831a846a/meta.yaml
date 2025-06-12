@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/ad469b69d84b4d0cb29303f0831a846a/artifacts
+deleted_time: 1749753273640
+end_time: 1749751285534
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: ad469b69d84b4d0cb29303f0831a846a
+run_name: agreeable-goose-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751271430
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///app/mlruns/528961946943719398/0c89edb5459e486580f86789fe8c2cf5/artifacts
+end_time: 1749753616327
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: active
+run_id: 0c89edb5459e486580f86789fe8c2cf5
+run_name: melodic-kite-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749753603397
+status: 3
+tags: []
+user_id: root

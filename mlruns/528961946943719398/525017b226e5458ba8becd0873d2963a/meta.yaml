@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/525017b226e5458ba8becd0873d2963a/artifacts
+deleted_time: 1749753273647
+end_time: 1749749353424
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 525017b226e5458ba8becd0873d2963a
+run_name: luminous-turtle-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749749343026
+status: 4
+tags: []
+user_id: root

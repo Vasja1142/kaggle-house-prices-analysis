@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/ee9c77dc20bc488fb647c19e1cacc50a/artifacts
+deleted_time: 1749753273690
+end_time: 1749748629680
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: ee9c77dc20bc488fb647c19e1cacc50a
+run_name: valuable-shad-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748618906
+status: 3
+tags: []
+user_id: root

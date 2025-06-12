@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/50d1ba7b1e964e0b90e499e2d6fc79d3/artifacts
+deleted_time: 1749753273601
+end_time: 1749751708669
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 50d1ba7b1e964e0b90e499e2d6fc79d3
+run_name: loud-owl-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749751697703
+status: 3
+tags: []
+user_id: root

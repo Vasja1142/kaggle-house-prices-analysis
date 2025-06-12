@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/528961946943719398/444e7da6b6624ceb99ded20b2dda34d2/artifacts
+deleted_time: 1749753285135
+end_time: 1749748327574
+entry_point_name: ''
+experiment_id: '528961946943719398'
+lifecycle_stage: deleted
+run_id: 444e7da6b6624ceb99ded20b2dda34d2
+run_name: enthused-carp-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749748321617
+status: 3
+tags: []
+user_id: root
