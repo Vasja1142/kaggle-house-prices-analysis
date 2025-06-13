@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/c86b63834669418c8e6d83b1ebf9749e/artifacts
+deleted_time: 1749802300663
 end_time: 1749753570403
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c86b63834669418c8e6d83b1ebf9749e
 run_name: learned-boar-828
 source_name: ''

@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/96f416a030d14c44832dd0d1ac960ab0/artifacts
+deleted_time: 1749802300655
 end_time: 1749753663446
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 96f416a030d14c44832dd0d1ac960ab0
 run_name: unruly-fowl-933
 source_name: ''

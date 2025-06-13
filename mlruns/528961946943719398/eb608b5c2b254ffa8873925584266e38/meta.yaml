@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/eb608b5c2b254ffa8873925584266e38/artifacts
+deleted_time: 1749802300679
 end_time: 1749753356296
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb608b5c2b254ffa8873925584266e38
 run_name: beautiful-bass-700
 source_name: ''

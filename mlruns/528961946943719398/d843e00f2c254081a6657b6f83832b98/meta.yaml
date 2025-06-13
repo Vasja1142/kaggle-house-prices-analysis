@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/d843e00f2c254081a6657b6f83832b98/artifacts
+deleted_time: 1749802300653
 end_time: 1749753713080
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d843e00f2c254081a6657b6f83832b98
 run_name: trusting-dove-735
 source_name: ''

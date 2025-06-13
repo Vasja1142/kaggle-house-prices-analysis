@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/3d968a67c5ca432aad92ad09eed4da87/artifacts
+deleted_time: 1749802300635
 end_time: 1749753890326
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3d968a67c5ca432aad92ad09eed4da87
 run_name: loud-sow-144
 source_name: ''

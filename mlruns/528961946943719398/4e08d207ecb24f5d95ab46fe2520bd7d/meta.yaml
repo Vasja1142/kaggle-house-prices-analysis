@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/4e08d207ecb24f5d95ab46fe2520bd7d/artifacts
+deleted_time: 1749802300640
 end_time: 1749753835619
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4e08d207ecb24f5d95ab46fe2520bd7d
 run_name: gentle-wasp-625
 source_name: ''

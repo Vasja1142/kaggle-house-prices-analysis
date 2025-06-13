@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/9c460db8cff8447e9bc991605c1a838b/artifacts
+deleted_time: 1749802300640
 end_time: 1749753825460
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9c460db8cff8447e9bc991605c1a838b
 run_name: flawless-snipe-649
 source_name: ''

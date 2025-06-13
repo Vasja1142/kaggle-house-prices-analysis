@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/75b56c05916c4ddfa45825c057e15be1/artifacts
+deleted_time: 1749802300650
 end_time: 1749753725023
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 75b56c05916c4ddfa45825c057e15be1
 run_name: welcoming-shark-966
 source_name: ''

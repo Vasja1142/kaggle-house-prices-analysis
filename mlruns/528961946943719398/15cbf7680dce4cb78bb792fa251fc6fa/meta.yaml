@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/15cbf7680dce4cb78bb792fa251fc6fa/artifacts
+deleted_time: 1749802300669
 end_time: 1749753499748
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 15cbf7680dce4cb78bb792fa251fc6fa
 run_name: resilient-hound-604
 source_name: ''

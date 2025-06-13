@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/0917f0872a4844c09d997bfff22f6f38/artifacts
+deleted_time: 1749802300648
 end_time: 1749753786606
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0917f0872a4844c09d997bfff22f6f38
 run_name: auspicious-cub-240
 source_name: ''

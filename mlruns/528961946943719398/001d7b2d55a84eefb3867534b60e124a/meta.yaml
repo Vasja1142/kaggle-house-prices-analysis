@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/001d7b2d55a84eefb3867534b60e124a/artifacts
+deleted_time: 1749802300640
 end_time: 1749753848097
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 001d7b2d55a84eefb3867534b60e124a
 run_name: masked-fawn-781
 source_name: ''

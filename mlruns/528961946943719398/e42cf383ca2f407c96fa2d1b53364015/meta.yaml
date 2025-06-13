@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/e42cf383ca2f407c96fa2d1b53364015/artifacts
+deleted_time: 1749802300674
 end_time: 1749753441093
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e42cf383ca2f407c96fa2d1b53364015
 run_name: invincible-hawk-763
 source_name: ''

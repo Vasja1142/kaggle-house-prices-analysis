@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/a7777e3329fb4c169df3918a999becc0/artifacts
+deleted_time: 1749802300655
 end_time: 1749753689992
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a7777e3329fb4c169df3918a999becc0
 run_name: handsome-bug-887
 source_name: ''

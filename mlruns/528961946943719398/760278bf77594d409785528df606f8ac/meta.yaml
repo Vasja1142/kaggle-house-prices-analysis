@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/760278bf77594d409785528df606f8ac/artifacts
+deleted_time: 1749802300632
 end_time: 1749753902355
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 760278bf77594d409785528df606f8ac
 run_name: powerful-mole-980
 source_name: ''

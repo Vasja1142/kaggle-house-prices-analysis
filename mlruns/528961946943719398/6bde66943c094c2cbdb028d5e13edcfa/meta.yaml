@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/6bde66943c094c2cbdb028d5e13edcfa/artifacts
+deleted_time: 1749802300655
 end_time: 1749753677858
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6bde66943c094c2cbdb028d5e13edcfa
 run_name: unleashed-hare-72
 source_name: ''

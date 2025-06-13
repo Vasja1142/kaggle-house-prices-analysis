@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/9af4c0d609ae4ee89ce5ff9059fe3c43/artifacts
+deleted_time: 1749802300667
 end_time: 1749753524439
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9af4c0d609ae4ee89ce5ff9059fe3c43
 run_name: honorable-snail-400
 source_name: ''

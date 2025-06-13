@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/565efb3cd30a4b77aaa7704e8e16e9f5/artifacts
+deleted_time: 1749802300675
 end_time: 1749753431127
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 565efb3cd30a4b77aaa7704e8e16e9f5
 run_name: adaptable-mare-150
 source_name: ''

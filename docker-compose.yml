@@ -1,12 +1,13 @@
+
 services:
   # Сервис для Jupyter Lab
   jupyter_lab:
-    build: . # Используем твой Dockerfile
+    build: .
     container_name: house_prices_gpu_container
     ports:
-      - "8888:8888" # Порт для Jupyter
+      - "8888:8888"
     volumes:
-      - .:/app # Вся папка проекта монтируется в /app
+      - .:/app
     working_dir: /app
     deploy:
       resources:
@@ -15,24 +16,33 @@ services:
             - driver: nvidia
               count: all
               capabilities: [gpu]
-    # Указываем, что этот сервис зависит от mlflow_server
-    # Docker-compose сперва запустит mlflow_server, а потом jupyter_lab
     depends_on:
       - mlflow_server
 
   # Сервис для MLflow UI
   mlflow_server:
-    build: . # Можно использовать тот же образ, т.к. mlflow там уже есть
+    build: .
     container_name: mlflow_ui_server
     ports:
-      - "5000:5000" # Порт для MLflow
+      - "5000:5000"
     volumes:
-      - .:/app # Также монтируем папку, чтобы оба контейнера видели mlruns
+      - .:/app
     working_dir: /app
-    # Переопределяем команду запуска контейнера на запуск MLflow
     command: >
       mlflow server
       --host 0.0.0.0
       --port 5000
       --backend-store-uri /app/mlruns
       --default-artifact-root /app/mlruns
+
+  # Сервис для Optuna Dashboard
+  optuna_dashboard:
+    build: .
+    container_name: optuna_dashboard_container
+    ports:
+      - "8080:8080" # <-- Стандартный порт для дашборда
+    volumes:
+      - .:/app # <-- Важно! Монтируем ту же папку, чтобы видеть optuna_study.db
+    working_dir: /app
+    command: >
+      optuna-dashboard sqlite:////app/optuna_study.db --host 0.0.0.0 --port 8080

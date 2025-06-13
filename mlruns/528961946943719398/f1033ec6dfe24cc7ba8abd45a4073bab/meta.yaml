@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/f1033ec6dfe24cc7ba8abd45a4073bab/artifacts
+deleted_time: 1749802300663
 end_time: 1749753557010
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f1033ec6dfe24cc7ba8abd45a4073bab
 run_name: dazzling-colt-250
 source_name: ''

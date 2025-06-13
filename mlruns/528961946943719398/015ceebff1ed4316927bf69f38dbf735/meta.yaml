@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/015ceebff1ed4316927bf69f38dbf735/artifacts
+deleted_time: 1749802300668
 end_time: 1749753508701
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 015ceebff1ed4316927bf69f38dbf735
 run_name: rumbling-tern-878
 source_name: ''

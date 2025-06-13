@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/2e8fd125c13846418c7b7b7a0065009c/artifacts
+deleted_time: 1749802300675
 end_time: 1749753410319
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2e8fd125c13846418c7b7b7a0065009c
 run_name: mysterious-kite-805
 source_name: ''

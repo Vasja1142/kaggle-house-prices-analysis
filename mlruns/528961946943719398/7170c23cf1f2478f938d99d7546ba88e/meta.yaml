@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/7170c23cf1f2478f938d99d7546ba88e/artifacts
+deleted_time: 1749802300667
 end_time: 1749753533224
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7170c23cf1f2478f938d99d7546ba88e
 run_name: burly-panda-160
 source_name: ''

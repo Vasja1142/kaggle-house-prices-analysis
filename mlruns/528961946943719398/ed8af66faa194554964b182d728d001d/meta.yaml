@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/ed8af66faa194554964b182d728d001d/artifacts
+deleted_time: 1749802300665
 end_time: 1749753548055
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ed8af66faa194554964b182d728d001d
 run_name: smiling-shad-601
 source_name: ''

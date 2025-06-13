@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/f7a327773f3e4e4b93e28f4ef7fd24d2/artifacts
+deleted_time: 1749802300673
 end_time: 1749753465921
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f7a327773f3e4e4b93e28f4ef7fd24d2
 run_name: thundering-lynx-688
 source_name: ''

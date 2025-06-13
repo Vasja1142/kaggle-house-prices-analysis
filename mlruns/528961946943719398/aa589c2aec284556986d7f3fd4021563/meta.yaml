@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/aa589c2aec284556986d7f3fd4021563/artifacts
+deleted_time: 1749802300677
 end_time: 1749753396296
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa589c2aec284556986d7f3fd4021563
 run_name: colorful-duck-824
 source_name: ''

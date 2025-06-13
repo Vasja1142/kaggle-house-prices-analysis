@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/61229f7ec4d34375a1e7aff167d74988/artifacts
+deleted_time: 1749802300648
 end_time: 1749753748659
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 61229f7ec4d34375a1e7aff167d74988
 run_name: selective-loon-997
 source_name: ''

@@ -3,5 +3,5 @@ creation_timestamp: 1749747206271
 deployment_job_id: null
 deployment_job_state: null
 description: null
-last_updated_timestamp: 1749753942415
+last_updated_timestamp: 1749799100609
 name: house-prices-regressor

@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/e8295cccfe684f2394f4a29b4a4e450e/artifacts
+deleted_time: 1749802300631
 end_time: 1749753942903
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e8295cccfe684f2394f4a29b4a4e450e
 run_name: gaudy-boar-539
 source_name: ''

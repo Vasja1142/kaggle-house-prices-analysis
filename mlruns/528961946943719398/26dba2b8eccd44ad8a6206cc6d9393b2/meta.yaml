@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/26dba2b8eccd44ad8a6206cc6d9393b2/artifacts
+deleted_time: 1749802300660
 end_time: 1749753627466
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 26dba2b8eccd44ad8a6206cc6d9393b2
 run_name: inquisitive-colt-340
 source_name: ''

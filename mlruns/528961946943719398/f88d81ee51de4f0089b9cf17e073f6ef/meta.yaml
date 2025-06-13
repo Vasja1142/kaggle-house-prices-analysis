@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/f88d81ee51de4f0089b9cf17e073f6ef/artifacts
+deleted_time: 1749802300662
 end_time: 1749753580920
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f88d81ee51de4f0089b9cf17e073f6ef
 run_name: crawling-goat-810
 source_name: ''

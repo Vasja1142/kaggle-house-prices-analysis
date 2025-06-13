@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/c1437c64745d4a1a8e79ed97684fac76/artifacts
+deleted_time: 1749802300654
 end_time: 1749753702863
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c1437c64745d4a1a8e79ed97684fac76
 run_name: abundant-goat-955
 source_name: ''

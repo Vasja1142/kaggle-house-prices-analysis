@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/426b0759762646fe8963abcafab4e800/artifacts
+deleted_time: 1749802300640
 end_time: 1749753859389
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 426b0759762646fe8963abcafab4e800
 run_name: abundant-hound-41
 source_name: ''

@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/39c30540c408421a96c68c604bcbf1f1/artifacts
+deleted_time: 1749802300677
 end_time: 1749753375365
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 39c30540c408421a96c68c604bcbf1f1
 run_name: silent-slug-763
 source_name: ''

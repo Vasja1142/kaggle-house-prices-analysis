@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/1db0914cefc2456ea3d6c464b64a4b93/artifacts
+deleted_time: 1749802300642
 end_time: 1749753797956
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1db0914cefc2456ea3d6c464b64a4b93
 run_name: nebulous-zebra-452
 source_name: ''

@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/d1e99d5904cb4257ad9c6a437138a5ca/artifacts
+deleted_time: 1749802300657
 end_time: 1749753652969
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d1e99d5904cb4257ad9c6a437138a5ca
 run_name: crawling-frog-476
 source_name: ''

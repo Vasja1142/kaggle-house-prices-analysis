@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/83e2d08c3bfb47588d16a23973773c62/artifacts
+deleted_time: 1749802300631
 end_time: 1749753931041
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 83e2d08c3bfb47588d16a23973773c62
 run_name: beautiful-rat-20
 source_name: ''

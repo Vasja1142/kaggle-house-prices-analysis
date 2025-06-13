@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/1fa6fd6dc7684cddba7012d041febffd/artifacts
+deleted_time: 1749802300675
 end_time: 1749753422942
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1fa6fd6dc7684cddba7012d041febffd
 run_name: funny-conch-75
 source_name: ''

@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/38422166894542d08cda2b04f6ea610b/artifacts
+deleted_time: 1749802300648
 end_time: 1749753773593
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 38422166894542d08cda2b04f6ea610b
 run_name: nebulous-ram-794
 source_name: ''

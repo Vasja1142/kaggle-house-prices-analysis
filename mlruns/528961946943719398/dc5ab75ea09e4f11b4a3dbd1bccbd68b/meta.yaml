@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/dc5ab75ea09e4f11b4a3dbd1bccbd68b/artifacts
+deleted_time: 1749802300642
 end_time: 1749753812617
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dc5ab75ea09e4f11b4a3dbd1bccbd68b
 run_name: redolent-duck-363
 source_name: ''

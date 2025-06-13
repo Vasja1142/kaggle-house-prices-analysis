@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/ad91ae69be434e3fb6a4378ea468569e/artifacts
+deleted_time: 1749802300648
 end_time: 1749753763000
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ad91ae69be434e3fb6a4378ea468569e
 run_name: rebellious-jay-259
 source_name: ''

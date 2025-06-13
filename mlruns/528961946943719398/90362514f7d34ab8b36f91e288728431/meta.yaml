@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/90362514f7d34ab8b36f91e288728431/artifacts
+deleted_time: 1749802300638
 end_time: 1749753879008
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 90362514f7d34ab8b36f91e288728431
 run_name: enchanting-moth-303
 source_name: ''

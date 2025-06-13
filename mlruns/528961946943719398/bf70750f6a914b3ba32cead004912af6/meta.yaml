@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/bf70750f6a914b3ba32cead004912af6/artifacts
+deleted_time: 1749802300679
 end_time: 1749753343361
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bf70750f6a914b3ba32cead004912af6
 run_name: unequaled-squid-331
 source_name: ''

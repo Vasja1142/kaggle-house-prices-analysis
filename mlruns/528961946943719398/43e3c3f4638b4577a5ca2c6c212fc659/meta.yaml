@@ -1,8 +1,9 @@
 artifact_uri: file:///app/mlruns/528961946943719398/43e3c3f4638b4577a5ca2c6c212fc659/artifacts
+deleted_time: 1749802300661
 end_time: 1749753592847
 entry_point_name: ''
 experiment_id: '528961946943719398'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 43e3c3f4638b4577a5ca2c6c212fc659
 run_name: puzzled-boar-489
 source_name: ''
