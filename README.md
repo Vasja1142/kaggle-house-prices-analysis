@@ -4,7 +4,7 @@
 
 Проект демонстрирует полный цикл работы над DS-задачей: от глубокой предобработки и инжиниринга признаков до автоматического подбора гиперпараметров, отслеживания экспериментов и создания воспроизводимой среды с помощью **PyTorch, Optuna, MLflow и Docker**.
 
-[![Python](https.img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
 [![MLOps Stack](https://img.shields.io/badge/MLOps-Optuna%20%7C%20MLflow%20%7C%20Docker-brightgreen.svg)](https://mlflow.org/)
 [![Kaggle Score (RMSLE)](https://img.shields.io/badge/Kaggle%20Score%20(RMSLE)-0.12842-blue.svg)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
