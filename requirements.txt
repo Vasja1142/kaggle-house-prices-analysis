@@ -8,7 +8,7 @@ openpyxl
 colorama
 tqdm
 ipywidgets
-ipykernel # <-- ДОБАВЬ ЭТУ СТРОКУ
+ipykernel 
 
 # Указываем минимальные версии для инструментов MLOps
 optuna>=3.0.0
