@@ -23,7 +23,7 @@ RUN apt-get update && apt-get install -y bash procps && rm -rf /var/lib/apt/list
 COPY . .
 
 # 7. Открываем порты
-EXPOSE 8888 5000 8080
+EXPOSE 8888 5000 8081
 
 # 8. Команда по умолчанию для запуска JupyterLab
 CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]

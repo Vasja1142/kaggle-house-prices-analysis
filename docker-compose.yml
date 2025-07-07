@@ -45,4 +45,4 @@ services:
       - .:/app # <-- Важно! Монтируем ту же папку, чтобы видеть optuna_study.db
     working_dir: /app
     command: >
-      optuna-dashboard sqlite:////app/optuna_study.db --host 0.0.0.0 --port 8080
+      optuna-dashboard sqlite:////app/db/optuna_study_refactored.db --host 0.0.0.0 --port 8081
